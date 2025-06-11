@@ -1,0 +1,4 @@
+name: StatCollector
+version: 1.0
+main: com.zlg.statcollector.StatCollector
+api-version: 1.21.5

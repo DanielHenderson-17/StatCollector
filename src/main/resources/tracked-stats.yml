@@ -1,0 +1,5 @@
+track:
+  kills: true
+  deaths: true
+  blocks_broken: true
+  playtime_seconds: true
